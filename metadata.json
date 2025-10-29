@@ -1,0 +1,7 @@
+{
+  "name": "AI Skin Analyzer",
+  "description": "An AI-powered application that allows users to upload or capture an image of their skin to get an analysis of potential skin conditions, home remedies, and advice. This tool is for informational purposes only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
